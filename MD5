@@ -1,0 +1,11 @@
+262fd2bf0a3d5e52fa5640567fa96660 *DESCRIPTION
+ec1e300b4c7bb621091878edb3a16d46 *NAMESPACE
+67245b69f10f747031e23fe9a28c0efe *R/drdrtest.R
+cf78420cd8636c399ac0560ccd5e8d07 *R/drdrtest_em.R
+f234262eea88bdc289c8ea2204afe0ab *R/utils.R
+f84629699aebd541f66aa85996fc45b0 *man/drdrtest.Rd
+650ec2e2b1c5745dc668ff52b2c60864 *man/drdrtest.base.Rd
+2fde9339a86dbcbaf0dfc3ae0fe62231 *man/drdrtest.superlearner.Rd
+a702d349ebaf35ab4e00876dfbf213f6 *man/drdrtest_em.Rd
+1243248a5e328f27abc6329fc90f259e *man/drdrtest_em.base.Rd
+1c9b4ff76fd6448335025c08e9675994 *man/drdrtest_em.superlearner.Rd
